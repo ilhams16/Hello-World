@@ -1,3 +1,4 @@
-Hello-World
+Hello
 
-I'm Ilham from Sebelas Maret University
+I'm Ilham Setyawan from Sebelas Maret University
+This is my little project
