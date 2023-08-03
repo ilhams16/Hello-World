@@ -1,4 +1,4 @@
 Hello
 
-I'm Ilham Setyawan from Sebelas Maret University
-This is my little project
+I'm Ilham Setyawan
+this is my little project
