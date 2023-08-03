@@ -1,4 +1,2 @@
-Hello
-
-I'm Ilham Setyawan from Sebelas Maret University
-This is my little project
+This is my first project using Beautifulsoup.
+Website used by the largest collection of journals in Indonesia.
