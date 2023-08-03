@@ -1,4 +1,4 @@
 Hello
 
-I'm Ilham Setyawan.
-This is my little project
+I'm Ilham Setyawan from Indonesia.
+This is my little project.
